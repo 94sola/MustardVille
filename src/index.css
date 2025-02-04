@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.mus h1 
+{
+    font-family: "Shrikhand", serif;
+}
+
+.hero h3
+{
+    font-family: "Twinkle Star", serif;
+}
